@@ -36,3 +36,4 @@ References
 - https://github.com/izuolan/dockerfiles/tree/master/pagekit
 - https://www.acunetix.com/vulnerabilities/web/htaccess-file-detected/
 - https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/htaccess-file-detected
+- https://github.com/izuolan/dockerfiles/issues/6
