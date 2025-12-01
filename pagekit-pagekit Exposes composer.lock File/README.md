@@ -34,4 +34,5 @@ CWE:
 
 References
 - https://github.com/izuolan/dockerfiles/tree/master/pagekit
+- https://github.com/izuolan/dockerfiles/issues/7
 - https://hub.docker.com/r/pagekit/pagekit 
