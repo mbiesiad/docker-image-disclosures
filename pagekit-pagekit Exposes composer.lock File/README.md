@@ -34,6 +34,4 @@ CWE:
 
 References
 - https://github.com/izuolan/dockerfiles/tree/master/pagekit
-- https://www.acunetix.com/vulnerabilities/web/htaccess-file-detected/
-- https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/htaccess-file-detected
 - https://hub.docker.com/r/pagekit/pagekit 
