@@ -21,6 +21,8 @@ Screenshot
 
 - Type: Community
 
+- Downloads: 10K+
+
 - Updated: over 7 years ago 
 
 - Disclosure date: 2025-11-30
@@ -37,3 +39,4 @@ References
 - https://www.acunetix.com/vulnerabilities/web/htaccess-file-detected/
 - https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/htaccess-file-detected
 - https://github.com/izuolan/dockerfiles/issues/6
+- https://hub.docker.com/r/pagekit/pagekit 
