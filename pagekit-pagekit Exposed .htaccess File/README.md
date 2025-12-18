@@ -40,3 +40,6 @@ References
 - https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/htaccess-file-detected
 - https://github.com/izuolan/dockerfiles/issues/6
 - https://hub.docker.com/r/pagekit/pagekit 
+
+## Disclaimer
+For educational and defensive purposes only.
